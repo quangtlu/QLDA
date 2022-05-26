@@ -2,4 +2,8 @@ vinh sửa code
 Quang sua code
 Duong Van Quang sua code
 dinh văn vinh sửa code
+<<<<<<< HEAD
 Quang sua dong 5
+=======
+dinh van vinh sua dong 5
+>>>>>>> 163be809fb8c18d4959b47e03a993969bb3efd09
